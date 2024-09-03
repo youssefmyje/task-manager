@@ -33,6 +33,8 @@ compodoc -v
 
 ## La partie où je me suis bloqué :
 
+Avant cette partie, tout fonctionnait très bien.
+
 Je me suis bloqué à cette partie :
 
 Faire en sorte que les services renvoient des Observables.
